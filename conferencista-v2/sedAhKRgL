@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<title>Contacto &#8211; ghc2025</title>
+	<title>Conferencista V2 &#8211; ghc2025</title>
 <meta name="robots" content="max-image-preview:large">
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	<link rel="alternate" type="application/rss+xml" title="ghc2025 &raquo; Feed" href="/feed/">
@@ -44,7 +44,8 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="stylesheet" id="widget-form-css" href="/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=3.28.1" media="all">
 <link rel="stylesheet" id="e-animation-bounceIn-css" href="/wp-content/plugins/elementor/assets/lib/animations/styles/bounceIn.min.css?ver=3.29.0" media="all">
 <link rel="stylesheet" id="e-animation-fadeIn-css" href="/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.29.0" media="all">
-<link rel="stylesheet" id="elementor-post-1731-css" href="/wp-content/uploads/elementor/css/post-1731.css?ver=1747866035" media="all">
+<link rel="stylesheet" id="widget-icon-list-css" href="/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1747839238" media="all">
+<link rel="stylesheet" id="elementor-post-2881-css" href="/wp-content/uploads/elementor/css/post-2881.css?ver=1747866060" media="all">
 <link rel="stylesheet" id="elementor-post-1476-css" href="/wp-content/uploads/elementor/css/post-1476.css?ver=1747839239" media="all">
 <link rel="stylesheet" id="elementor-post-1488-css" href="/wp-content/uploads/elementor/css/post-1488.css?ver=1747839239" media="all">
 <link rel="stylesheet" id="elementor-post-1709-css" href="/wp-content/uploads/elementor/css/post-1709.css?ver=1747839239" media="all">
@@ -56,13 +57,13 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <script src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <link rel="https://api.w.org/" href="/wp-json/">
-<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/1731">
+<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/2881">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <meta name="generator" content="WordPress 6.8.1">
-<link rel="canonical" href="/contacto/">
-<link rel="shortlink" href="/?p=1731">
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fcontacto%2F">
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fcontacto%2F#038;format=xml">
+<link rel="canonical" href="/conferencista-v2/">
+<link rel="shortlink" href="/?p=2881">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fconferencista-v2%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fconferencista-v2%2F#038;format=xml">
 <meta name="generator" content="Elementor 3.29.0; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-auto">
 			<style>.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -85,7 +86,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <link rel="apple-touch-icon" href="/wp-content/uploads/2024/09/cropped-svglogo_img45-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2024/09/cropped-svglogo_img45-270x270.png">
 </head>
-<body class="wp-singular page-template page-template-elementor_header_footer page page-id-1731 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-1731">
+<body class="wp-singular page-template page-template-elementor_header_footer page page-id-2881 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-2881">
 
 
 <a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
@@ -177,76 +178,472 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 					</div>
 				</div>
 				</div>
-				<div data-elementor-type="wp-page" data-elementor-id="1731" class="elementor elementor-1731" data-elementor-post-type="page">
-				<div class="elementor-element elementor-element-7a8d3c1 e-flex e-con-boxed e-con e-parent" data-id="7a8d3c1" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div data-elementor-type="wp-page" data-elementor-id="2881" class="elementor elementor-2881" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-5a20499 e-con-full e-flex e-con e-child" data-id="5a20499" data-element_type="container">
+		<div class="elementor-element elementor-element-fefaa6e e-con-full e-flex e-con e-child" data-id="fefaa6e" data-element_type="container">
+				<div class="elementor-element elementor-element-65d3c98 e-transform elementor-widget elementor-widget-image" data-id="65d3c98" data-element_type="widget" data-settings="{&quot;_transform_rotateZ_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_widescreen&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_laptop&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="74" height="74" src="/wp-content/uploads/2024/09/Componente-53-–-9.png" class="attachment-full size-full wp-image-1544" alt="">															</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8ac7d22 elementor-widget elementor-widget-heading" data-id="8ac7d22" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Conferencistas</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-802b57b e-flex e-con-boxed e-con e-parent" data-id="802b57b" data-element_type="container">
 					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-5f05532 e-con-full e-flex e-con e-child" data-id="5f05532" data-element_type="container">
-		<div class="elementor-element elementor-element-7e85122 e-con-full e-flex e-con e-child" data-id="7e85122" data-element_type="container">
-				<div class="elementor-element elementor-element-5ef8dcf e-transform elementor-widget elementor-widget-image" data-id="5ef8dcf" data-element_type="widget" data-settings="{&quot;_transform_rotateZ_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_widescreen&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_laptop&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image.default">
+				<div class="elementor-element elementor-element-359212c elementor-widget elementor-widget-text-editor" data-id="359212c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="74" height="73" src="/wp-content/uploads/2024/09/Componente-5S4.svg" class="attachment-full size-full wp-image-1737" alt="">															</div>
+									<p>Destacados líderes, investigadores y profesionales compartirán su conocimiento y experiencia. Estamos emocionados de recibirlos, conocer sus enfoques innovadores y perspectivas únicas que están moldeando el futuro de la atención médica.</p>								</div>
 				</div>
+					</div>
 				</div>
-				<div class="elementor-element elementor-element-a8a5b71 elementor-widget elementor-widget-heading" data-id="a8a5b71" data-element_type="widget" data-widget_type="heading.default">
+		<div class="elementor-element elementor-element-2c234cf e-flex e-con-boxed e-con e-parent" data-id="2c234cf" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-e2809f5 e-con-full e-flex e-con e-child" data-id="e2809f5" data-element_type="container">
+		<div class="elementor-element elementor-element-1e3d57a e-con-full e-flex e-con e-child" data-id="1e3d57a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-cd38506 e-con-full e-flex e-con e-child" data-id="cd38506" data-element_type="container">
+		<div class="elementor-element elementor-element-47b67d2 e-con-full e-flex e-con e-child" data-id="47b67d2" data-element_type="container">
+		<div class="elementor-element elementor-element-0c28550 e-con-full e-flex e-con e-child" data-id="0c28550" data-element_type="container">
+				<div class="elementor-element elementor-element-ce26930 elementor-widget elementor-widget-image" data-id="ce26930" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Contacto</h2>				</div>
+															<img fetchpriority="high" decoding="async" width="311" height="311" src="/wp-content/uploads/2024/09/Carlos-Espinal.png" class="attachment-full size-full wp-image-1503" alt="" srcset="/wp-content/uploads/2024/09/Carlos-Espinal.png 311w, /wp-content/uploads/2024/09/Carlos-Espinal-300x300.png 300w, /wp-content/uploads/2024/09/Carlos-Espinal-150x150.png 150w" sizes="(max-width: 311px) 100vw, 311px">															</div>
 				</div>
 				</div>
-		<div class="elementor-element elementor-element-8a39939 e-con-full e-flex e-con e-child" data-id="8a39939" data-element_type="container">
-				<div class="elementor-element elementor-element-0b5ff2d elementor-widget elementor-widget-text-editor" data-id="0b5ff2d" data-element_type="widget" data-widget_type="text-editor.default">
+		<div class="elementor-element elementor-element-ce729a1 e-con-full e-flex e-con e-child" data-id="ce729a1" data-element_type="container">
+				<div class="elementor-element elementor-element-825bfb0 elementor-widget elementor-widget-heading" data-id="825bfb0" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-									Por favor déjanos tu información de contacto<br> y alguien de nuestro equipo se comunicará contigo.								</div>
+					<h2 class="elementor-heading-title elementor-size-default">Dr. Carlos Espinal</h2>				</div>
 				</div>
-				</div>
-		<div class="elementor-element elementor-element-047ceba e-con-full e-flex e-con e-child" data-id="047ceba" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-		<div class="elementor-element elementor-element-ca22e62 e-con-full e-flex e-con e-child" data-id="ca22e62" data-element_type="container">
-				<div class="elementor-element elementor-element-a46ec2d elementor-button-align-start elementor-widget elementor-widget-form" data-id="a46ec2d" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-element elementor-element-e057bd5 elementor-widget elementor-widget-text-editor" data-id="e057bd5" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<form class="elementor-form" method="post" id="Form_scp" name="Form_scp">
-			<input type="hidden" name="post_id" value="1731">
-			<input type="hidden" name="form_id" value="a46ec2d">
-			<input type="hidden" name="referer_title" value="Contacto">
-
-							<input type="hidden" name="queried_id" value="1731">
-			
-			<div class="elementor-form-fields-wrapper elementor-labels-above">
-								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50 elementor-field-required">
-												<label for="form-field-name" class="elementor-field-label">
-								Nombres							</label>
-														<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Nombres" required="required">
-											</div>
-								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_dfed1f6 elementor-col-50 elementor-field-required">
-												<label for="form-field-field_dfed1f6" class="elementor-field-label">
-								Apellidos							</label>
-														<input size="1" type="text" name="form_fields[field_dfed1f6]" id="form-field-field_dfed1f6" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Apellidos" required="required">
-											</div>
-								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_d3580d4 elementor-col-50 elementor-field-required">
-												<label for="form-field-field_d3580d4" class="elementor-field-label">
-								Teléfono							</label>
-								<input size="1" type="tel" name="form_fields[field_d3580d4]" id="form-field-field_d3580d4" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Teléfono" required="required" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
-
+									<p>Director del Consorcio de Salud Global/Departamento de Salud Global, Escuela Robert Stempel de Salud Pública y Trabajo Social, Universidad Internacional de la Florida.</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-607c900 e-con-full e-flex e-con e-child" data-id="607c900" data-element_type="container">
+				<div class="elementor-element elementor-element-9508362 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="9508362" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>Institución:</b> FIU</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>País:</b> Estados Unidos</span>
+									</li>
+						</ul>
 						</div>
-								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
-												<label for="form-field-email" class="elementor-field-label">
-								Email							</label>
-														<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Email" required="required">
-											</div>
-								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-50">
-												<label for="form-field-message" class="elementor-field-label">
-								Mensaje							</label>
-						<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="5" placeholder="Mensaje"></textarea>				</div>
-								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
-					<button class="elementor-button elementor-size-sm" type="submit">
-						<span class="elementor-button-content-wrapper">
-															<span class="elementor-button-icon">
-									<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256s111 248 248 248 248-111 248-248zm-448 0c0-110.5 89.5-200 200-200s200 89.5 200 200-89.5 200-200 200S56 366.5 56 256zm72 20v-40c0-6.6 5.4-12 12-12h116v-67c0-10.7 12.9-16 20.5-8.5l99 99c4.7 4.7 4.7 12.3 0 17l-99 99c-7.6 7.6-20.5 2.2-20.5-8.5v-67H140c-6.6 0-12-5.4-12-12z"></path></svg>																	</span>
-																						<span class="elementor-button-text">Enviar</span>
-													</span>
-					</button>
 				</div>
-			</div>
-		</form>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f09fca0 e-con-full e-flex e-con e-child" data-id="f09fca0" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-84d5cfc e-con-full e-flex e-con e-child" data-id="84d5cfc" data-element_type="container">
+		<div class="elementor-element elementor-element-168de2c e-con-full e-flex e-con e-child" data-id="168de2c" data-element_type="container">
+		<div class="elementor-element elementor-element-74068fc e-con-full e-flex e-con e-child" data-id="74068fc" data-element_type="container">
+				<div class="elementor-element elementor-element-f05aaf2 elementor-widget elementor-widget-image" data-id="f05aaf2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="300" height="303" src="/wp-content/uploads/2024/09/gEnmascarar-grupo-51.png" class="attachment-full size-full wp-image-1481" alt="" srcset="/wp-content/uploads/2024/09/gEnmascarar-grupo-51.png 300w, /wp-content/uploads/2024/09/gEnmascarar-grupo-51-297x300.png 297w" sizes="(max-width: 300px) 100vw, 300px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-27aad14 e-con-full e-flex e-con e-child" data-id="27aad14" data-element_type="container">
+				<div class="elementor-element elementor-element-1bf36b9 elementor-widget elementor-widget-heading" data-id="1bf36b9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Dra. María luisa ávila agüero</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-153a0f6 elementor-widget elementor-widget-text-editor" data-id="153a0f6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Presidente Sociedad Latinoamericana de Infectología Pediátrica &#8211; SLIPE								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ad11b85 e-con-full e-flex e-con e-child" data-id="ad11b85" data-element_type="container">
+				<div class="elementor-element elementor-element-e7af33a elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="e7af33a" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>Institución:</b> SLIPE</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>País:</b> Costa Rica</span>
+									</li>
+						</ul>
 						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5be42c2 e-con-full e-flex e-con e-child" data-id="5be42c2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-618143b e-con-full e-flex e-con e-child" data-id="618143b" data-element_type="container">
+		<div class="elementor-element elementor-element-7ad9768 e-con-full e-flex e-con e-child" data-id="7ad9768" data-element_type="container">
+		<div class="elementor-element elementor-element-254eb27 e-con-full e-flex e-con e-child" data-id="254eb27" data-element_type="container">
+				<div class="elementor-element elementor-element-7abcfc4 elementor-widget elementor-widget-image" data-id="7abcfc4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="283" height="285" src="/wp-content/uploads/2024/09/Enmascarar-grupo-51-1.png" class="attachment-full size-full wp-image-1545" alt="" srcset="/wp-content/uploads/2024/09/Enmascarar-grupo-51-1.png 283w, /wp-content/uploads/2024/09/Enmascarar-grupo-51-1-150x150.png 150w" sizes="(max-width: 283px) 100vw, 283px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8fdfd7a e-con-full e-flex e-con e-child" data-id="8fdfd7a" data-element_type="container">
+				<div class="elementor-element elementor-element-bb03d49 elementor-widget elementor-widget-heading" data-id="bb03d49" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Dr. Tomás r. Guilarte</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8368cf6 elementor-widget elementor-widget-text-editor" data-id="8368cf6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Decano, Escuela de Salud Pública y Trabajo Social Robert Stempel, Universidad Internacional de la Florida (FIU)								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-181fb44 e-con-full e-flex e-con e-child" data-id="181fb44" data-element_type="container">
+				<div class="elementor-element elementor-element-0f69812 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="0f69812" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>Institución:</b> FIU</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>País:</b> Estados Unidos</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-61c1fee e-con-full e-flex e-con e-child" data-id="61c1fee" data-element_type="container">
+		<div class="elementor-element elementor-element-2788a29 e-con-full e-flex e-con e-child" data-id="2788a29" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-9b32d5b e-con-full e-flex e-con e-child" data-id="9b32d5b" data-element_type="container">
+		<div class="elementor-element elementor-element-5a9067c e-con-full e-flex e-con e-child" data-id="5a9067c" data-element_type="container">
+		<div class="elementor-element elementor-element-f3de966 e-con-full e-flex e-con e-child" data-id="f3de966" data-element_type="container">
+				<div class="elementor-element elementor-element-12f6b17 elementor-widget elementor-widget-image" data-id="12f6b17" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="283" height="285" src="/wp-content/uploads/2024/09/Enmascarar-grupo-512.png" class="attachment-full size-full wp-image-1546" alt="" srcset="/wp-content/uploads/2024/09/Enmascarar-grupo-512.png 283w, /wp-content/uploads/2024/09/Enmascarar-grupo-512-150x150.png 150w" sizes="(max-width: 283px) 100vw, 283px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1cfe31f e-con-full e-flex e-con e-child" data-id="1cfe31f" data-element_type="container">
+				<div class="elementor-element elementor-element-3c12506 elementor-widget elementor-widget-heading" data-id="3c12506" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Dr. Francisco Becerra</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-c8ceb3d elementor-widget elementor-widget-text-editor" data-id="c8ceb3d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Asesor del Consorcio de Salud Global/Departamento de Salud Global, Escuela Robert Stempel de Salud Pública y Trabajo Social, Universidad Internacional de la Florida (FIU)								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d28be04 e-con-full e-flex e-con e-child" data-id="d28be04" data-element_type="container">
+				<div class="elementor-element elementor-element-ce053ba elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="ce053ba" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>Institución:</b> FIU</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>País:</b> México</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-35b00a5 e-con-full e-flex e-con e-child" data-id="35b00a5" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-9e8a3cc e-con-full e-flex e-con e-child" data-id="9e8a3cc" data-element_type="container">
+		<div class="elementor-element elementor-element-3625433 e-con-full e-flex e-con e-child" data-id="3625433" data-element_type="container">
+		<div class="elementor-element elementor-element-7a55b9a e-con-full e-flex e-con e-child" data-id="7a55b9a" data-element_type="container">
+				<div class="elementor-element elementor-element-a73ef7d elementor-widget elementor-widget-image" data-id="a73ef7d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="300" height="303" src="/wp-content/uploads/2024/09/Enmascarar-grupo-51.png" class="attachment-full size-full wp-image-1547" alt="" srcset="/wp-content/uploads/2024/09/Enmascarar-grupo-51.png 300w, /wp-content/uploads/2024/09/Enmascarar-grupo-51-297x300.png 297w" sizes="(max-width: 300px) 100vw, 300px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0cc5f3a e-con-full e-flex e-con e-child" data-id="0cc5f3a" data-element_type="container">
+				<div class="elementor-element elementor-element-fe3aa52 elementor-widget elementor-widget-heading" data-id="fe3aa52" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Dr. Roberto Debbag</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7195d86 elementor-widget elementor-widget-text-editor" data-id="7195d86" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Asesor Sociedad Latinoamericana de Infectología Pediátrica &#8211; SLIPE								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e429e42 e-con-full e-flex e-con e-child" data-id="e429e42" data-element_type="container">
+				<div class="elementor-element elementor-element-f4671a3 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="f4671a3" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>Institución:</b> SLIPE</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>País:</b> Argentina</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-7f9464d e-con-full e-flex e-con e-child" data-id="7f9464d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-e6405cd e-con-full e-flex e-con e-child" data-id="e6405cd" data-element_type="container">
+		<div class="elementor-element elementor-element-502dff9 e-con-full e-flex e-con e-child" data-id="502dff9" data-element_type="container">
+		<div class="elementor-element elementor-element-7c03319 e-con-full e-flex e-con e-child" data-id="7c03319" data-element_type="container">
+				<div class="elementor-element elementor-element-87913f5 elementor-widget elementor-widget-image" data-id="87913f5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="300" height="303" src="/wp-content/uploads/2024/09/r0Enmascarar-grupo-51.png" class="attachment-full size-full wp-image-1482" alt="" srcset="/wp-content/uploads/2024/09/r0Enmascarar-grupo-51.png 300w, /wp-content/uploads/2024/09/r0Enmascarar-grupo-51-297x300.png 297w" sizes="(max-width: 300px) 100vw, 300px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a7ebf0b e-con-full e-flex e-con e-child" data-id="a7ebf0b" data-element_type="container">
+				<div class="elementor-element elementor-element-d098bbe elementor-widget elementor-widget-heading" data-id="d098bbe" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Dr. Rajiv Chowdhury
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-f2a2750 elementor-widget elementor-widget-text-editor" data-id="f2a2750" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Jefe del Departamento, Departamento de Salud Global, Escuela Robert Stempel de Salud Pública y Trabajo Social, Universidad Internacional de la Florida (FIU)								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-018c024 e-con-full e-flex e-con e-child" data-id="018c024" data-element_type="container">
+				<div class="elementor-element elementor-element-e615602 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="e615602" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>Institución:</b> FIU</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>País:</b> Estados Unidos</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-9563e8e e-con-full e-flex e-con e-child" data-id="9563e8e" data-element_type="container">
+		<div class="elementor-element elementor-element-a398cfa e-con-full e-flex e-con e-child" data-id="a398cfa" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-28b6a63 e-con-full e-flex e-con e-child" data-id="28b6a63" data-element_type="container">
+		<div class="elementor-element elementor-element-899f5c0 e-con-full e-flex e-con e-child" data-id="899f5c0" data-element_type="container">
+		<div class="elementor-element elementor-element-dbd8c8f e-con-full e-flex e-con e-child" data-id="dbd8c8f" data-element_type="container">
+				<div class="elementor-element elementor-element-a50acfe elementor-widget elementor-widget-image" data-id="a50acfe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="283" height="285" src="/wp-content/uploads/2024/09/img_DRA.-GENTILE.png" class="attachment-full size-full wp-image-1548" alt="" srcset="/wp-content/uploads/2024/09/img_DRA.-GENTILE.png 283w, /wp-content/uploads/2024/09/img_DRA.-GENTILE-150x150.png 150w" sizes="(max-width: 283px) 100vw, 283px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f1b2e71 e-con-full e-flex e-con e-child" data-id="f1b2e71" data-element_type="container">
+				<div class="elementor-element elementor-element-ccf0973 elementor-widget elementor-widget-heading" data-id="ccf0973" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">dra. ángela gentile
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-e9bb19a elementor-widget elementor-widget-text-editor" data-id="e9bb19a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Médica Pediatra Infectóloga.<br> Jefa del Servicio de Epidemiología								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3e525c3 e-con-full e-flex e-con e-child" data-id="3e525c3" data-element_type="container">
+				<div class="elementor-element elementor-element-2c1ecbf elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="2c1ecbf" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>Institución:</b>  Hospital Niños Ricardo Gutiérrez</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>País:</b> Argentina</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d1672dc e-con-full e-flex e-con e-child" data-id="d1672dc" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-a7a9170 e-con-full e-flex e-con e-child" data-id="a7a9170" data-element_type="container">
+		<div class="elementor-element elementor-element-673ea82 e-con-full e-flex e-con e-child" data-id="673ea82" data-element_type="container">
+		<div class="elementor-element elementor-element-0b7d219 e-con-full e-flex e-con e-child" data-id="0b7d219" data-element_type="container">
+				<div class="elementor-element elementor-element-f8c7a92 elementor-widget elementor-widget-image" data-id="f8c7a92" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="283" height="285" src="/wp-content/uploads/2024/09/img_DRA-FAMA-PEREIRA.png" class="attachment-full size-full wp-image-1549" alt="" srcset="/wp-content/uploads/2024/09/img_DRA-FAMA-PEREIRA.png 283w, /wp-content/uploads/2024/09/img_DRA-FAMA-PEREIRA-150x150.png 150w" sizes="(max-width: 283px) 100vw, 283px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-57defb4 e-con-full e-flex e-con e-child" data-id="57defb4" data-element_type="container">
+				<div class="elementor-element elementor-element-a4d0381 elementor-widget elementor-widget-heading" data-id="a4d0381" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">dra. marcela fama pereira</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-88d78b0 elementor-widget elementor-widget-text-editor" data-id="88d78b0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Presidente Asociación Latinoamericana de Pediatría – ALAPE</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-08e9aef e-con-full e-flex e-con e-child" data-id="08e9aef" data-element_type="container">
+				<div class="elementor-element elementor-element-6b94136 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6b94136" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>Institución:</b> ALAPE</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>País:</b> Colombia</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d028c62 e-con-full e-flex e-con e-child" data-id="d028c62" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-834274a e-con-full e-flex e-con e-child" data-id="834274a" data-element_type="container">
+		<div class="elementor-element elementor-element-e9b2557 e-con-full e-flex e-con e-child" data-id="e9b2557" data-element_type="container">
+		<div class="elementor-element elementor-element-d8139f6 e-con-full e-flex e-con e-child" data-id="d8139f6" data-element_type="container">
+				<div class="elementor-element elementor-element-a341192 elementor-widget elementor-widget-image" data-id="a341192" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="283" height="285" src="/wp-content/uploads/2024/09/img_DRLUIS-JORGE-H.png" class="attachment-full size-full wp-image-1550" alt="" srcset="/wp-content/uploads/2024/09/img_DRLUIS-JORGE-H.png 283w, /wp-content/uploads/2024/09/img_DRLUIS-JORGE-H-150x150.png 150w" sizes="(max-width: 283px) 100vw, 283px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2e0368a e-con-full e-flex e-con e-child" data-id="2e0368a" data-element_type="container">
+				<div class="elementor-element elementor-element-76028bf elementor-widget elementor-widget-heading" data-id="76028bf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">dr. luis jorge hernández
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b358e1d elementor-widget elementor-widget-text-editor" data-id="b358e1d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Director de Investigaciones de la Facultad de Medicina.</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-96afeea e-con-full e-flex e-con e-child" data-id="96afeea" data-element_type="container">
+				<div class="elementor-element elementor-element-bf5ec33 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="bf5ec33" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>Institución:</b> Consultor de la OPS.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>País:</b> Colombia</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-fc1ba27 e-con-full e-flex e-con e-child" data-id="fc1ba27" data-element_type="container">
+		<div class="elementor-element elementor-element-ad46f7b e-con-full e-flex e-con e-child" data-id="ad46f7b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-f07dad4 e-con-full e-flex e-con e-child" data-id="f07dad4" data-element_type="container">
+		<div class="elementor-element elementor-element-bfa355b e-con-full e-flex e-con e-child" data-id="bfa355b" data-element_type="container">
+		<div class="elementor-element elementor-element-7919301 e-con-full e-flex e-con e-child" data-id="7919301" data-element_type="container">
+				<div class="elementor-element elementor-element-addf98d elementor-widget elementor-widget-image" data-id="addf98d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="283" height="285" src="/wp-content/uploads/2024/09/scscscsc.png" class="attachment-full size-full wp-image-1538" alt="" srcset="/wp-content/uploads/2024/09/scscscsc.png 283w, /wp-content/uploads/2024/09/scscscsc-150x150.png 150w" sizes="(max-width: 283px) 100vw, 283px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e820867 e-con-full e-flex e-con e-child" data-id="e820867" data-element_type="container">
+				<div class="elementor-element elementor-element-2685acc elementor-widget elementor-widget-heading" data-id="2685acc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">dr. xavier sáez llorens
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-59aed52 elementor-widget elementor-widget-text-editor" data-id="59aed52" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Pediatra Infectólogo</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4e2b8e6 e-con-full e-flex e-con e-child" data-id="4e2b8e6" data-element_type="container">
+				<div class="elementor-element elementor-element-783fd6d elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="783fd6d" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>Institución:</b>  Hospital del Niño - Dr. José Esquivel</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>País:</b> Panamá</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-81acdd6 e-con-full e-flex e-con e-child" data-id="81acdd6" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-fb2e220 e-con-full e-flex e-con e-child" data-id="fb2e220" data-element_type="container">
+		<div class="elementor-element elementor-element-296588a e-con-full e-flex e-con e-child" data-id="296588a" data-element_type="container">
+		<div class="elementor-element elementor-element-c842ce3 e-con-full e-flex e-con e-child" data-id="c842ce3" data-element_type="container">
+				<div class="elementor-element elementor-element-d411a46 elementor-widget elementor-widget-image" data-id="d411a46" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="283" height="285" src="/wp-content/uploads/2024/09/img_DR.ROLANDO-ULLOA.png" class="attachment-full size-full wp-image-1539" alt="" srcset="/wp-content/uploads/2024/09/img_DR.ROLANDO-ULLOA.png 283w, /wp-content/uploads/2024/09/img_DR.ROLANDO-ULLOA-150x150.png 150w" sizes="(max-width: 283px) 100vw, 283px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d22d9f9 e-con-full e-flex e-con e-child" data-id="d22d9f9" data-element_type="container">
+				<div class="elementor-element elementor-element-d20c15a elementor-widget elementor-widget-heading" data-id="d20c15a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">dr. rolando ulloa gutiérrez
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1c97da3 elementor-widget elementor-widget-text-editor" data-id="1c97da3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Especialista en Enfermedades Infecciosas Pediátricas</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d1b7983 e-con-full e-flex e-con e-child" data-id="d1b7983" data-element_type="container">
+				<div class="elementor-element elementor-element-1007dfb elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1007dfb" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>Institución:</b> Hospital de Niños de San José</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>País:</b> Costa Rica</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-68ff415 e-con-full e-flex e-con e-child" data-id="68ff415" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-74b4f41 e-con-full e-flex e-con e-child" data-id="74b4f41" data-element_type="container">
+		<div class="elementor-element elementor-element-f43bc9d e-con-full e-flex e-con e-child" data-id="f43bc9d" data-element_type="container">
+		<div class="elementor-element elementor-element-87f18c0 e-con-full e-flex e-con e-child" data-id="87f18c0" data-element_type="container">
+				<div class="elementor-element elementor-element-6ab6c83 elementor-widget elementor-widget-image" data-id="6ab6c83" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="283" height="285" src="/wp-content/uploads/2024/09/img_DR.PETER-HOTEZ.png" class="attachment-full size-full wp-image-1480" alt="" srcset="/wp-content/uploads/2024/09/img_DR.PETER-HOTEZ.png 283w, /wp-content/uploads/2024/09/img_DR.PETER-HOTEZ-150x150.png 150w" sizes="(max-width: 283px) 100vw, 283px">															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-40f60f5 e-con-full e-flex e-con e-child" data-id="40f60f5" data-element_type="container">
+				<div class="elementor-element elementor-element-31dc8c3 elementor-widget elementor-widget-heading" data-id="31dc8c3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">dr. peter hotez
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3eb0749 elementor-widget elementor-widget-text-editor" data-id="3eb0749" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Director del Centro para el Desarrollo de Vacunas</p>								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-77ff64f e-con-full e-flex e-con e-child" data-id="77ff64f" data-element_type="container">
+				<div class="elementor-element elementor-element-a7dbb9d elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="a7dbb9d" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>Institución:</b> Texas Children´s Hospital</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text"><b>País:</b> Estados Unidos</span>
+									</li>
+						</ul>
+						</div>
+				</div>
 				</div>
 				</div>
 				</div>
@@ -445,9 +842,9 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 							<form class="elementor-form" method="post" id="form_whatsapp" name="Formulario Whatsapp Popup">
 			<input type="hidden" name="post_id" value="549">
 			<input type="hidden" name="form_id" value="2c1ada8">
-			<input type="hidden" name="referer_title" value="Contacto">
+			<input type="hidden" name="referer_title" value="Conferencista V2">
 
-							<input type="hidden" name="queried_id" value="1731">
+							<input type="hidden" name="queried_id" value="2881">
 			
 			<div class="elementor-form-fields-wrapper elementor-labels-above">
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-md-100 elementor-field-required elementor-mark-required">
@@ -719,7 +1116,7 @@ function handleSubmit(event) {
 <script src="/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.29.0" id="elementor-webpack-runtime-js"></script>
 <script src="/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.29.0" id="elementor-frontend-modules-js"></script>
 <script src="/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir vídeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la última diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Móvil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Móvil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"3.29.0","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_local_google_fonts":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"editor_v2":true,"e_element_cache":true,"home_screen":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"9c16a66d9a"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop","viewport_widescreen"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":1731,"title":"Contacto%20%E2%80%93%20ghc2025","excerpt":"","featuredImage":false}};</script>
+<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir vídeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la última diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Móvil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Móvil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"3.29.0","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_local_google_fonts":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"editor_v2":true,"e_element_cache":true,"home_screen":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"9c16a66d9a"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop","viewport_widescreen"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":2881,"title":"Conferencista%20V2%20%E2%80%93%20ghc2025","excerpt":"","featuredImage":false}};</script>
 <script src="/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.0" id="elementor-frontend-js"></script>
 <script src="/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js"></script>
 <script src="/wp-content/plugins/pro-elements/assets/lib/sticky/jquery.sticky.min.js?ver=3.28.1" id="e-sticky-js"></script>
