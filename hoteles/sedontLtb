@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<title>Tarifas &#8211; ghc2025</title>
+	<title>Hoteles &#8211; ghc2025</title>
 <meta name="robots" content="max-image-preview:large">
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	<link rel="alternate" type="application/rss+xml" title="ghc2025 &raquo; Feed" href="/feed/">
@@ -44,8 +44,9 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 <link rel="stylesheet" id="widget-form-css" href="/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=3.29.0" media="all">
 <link rel="stylesheet" id="e-animation-bounceIn-css" href="/wp-content/plugins/elementor/assets/lib/animations/styles/bounceIn.min.css?ver=3.30.2" media="all">
 <link rel="stylesheet" id="e-animation-fadeIn-css" href="/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.30.2" media="all">
-<link rel="stylesheet" id="e-animation-grow-css" href="/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.30.2" media="all">
-<link rel="stylesheet" id="elementor-post-2729-css" href="/wp-content/uploads/elementor/css/post-2729.css?ver=1752704805" media="all">
+<link rel="stylesheet" id="widget-icon-list-css" href="/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1752703521" media="all">
+<link rel="stylesheet" id="widget-divider-css" href="/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.30.2" media="all">
+<link rel="stylesheet" id="elementor-post-1593-css" href="/wp-content/uploads/elementor/css/post-1593.css?ver=1752704784" media="all">
 <link rel="stylesheet" id="elementor-post-1476-css" href="/wp-content/uploads/elementor/css/post-1476.css?ver=1752703548" media="all">
 <link rel="stylesheet" id="elementor-post-1488-css" href="/wp-content/uploads/elementor/css/post-1488.css?ver=1752703548" media="all">
 <link rel="stylesheet" id="elementor-post-1709-css" href="/wp-content/uploads/elementor/css/post-1709.css?ver=1752703564" media="all">
@@ -57,13 +58,13 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 <script src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <link rel="https://api.w.org/" href="/wp-json/">
-<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/2729">
+<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/1593">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <meta name="generator" content="WordPress 6.8.2">
-<link rel="canonical" href="/tarifas/">
-<link rel="shortlink" href="/?p=2729">
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Ftarifas%2F">
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Ftarifas%2F#038;format=xml">
+<link rel="canonical" href="/hoteles/">
+<link rel="shortlink" href="/?p=1593">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fhoteles%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fhoteles%2F#038;format=xml">
 <meta name="generator" content="Elementor 3.30.2; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-auto">
 			<style>.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -86,7 +87,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 <link rel="apple-touch-icon" href="/wp-content/uploads/2024/09/cropped-svglogo_img45-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2024/09/cropped-svglogo_img45-270x270.png">
 </head>
-<body class="wp-singular page-template-default page page-id-2729 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-kit-5 elementor-page elementor-page-2729">
+<body class="wp-singular page-template page-template-elementor_header_footer page page-id-1593 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-1593">
 
 
 <a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
@@ -124,10 +125,10 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3024"><a href="/conferencista/" class="elementor-item">Conferencistas</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1596">
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1596">
 <a href="/cartagena-sede/" class="elementor-item">Ciudad y sede</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1595"><a href="/hoteles/" class="elementor-sub-item">Hoteles</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1593 current_page_item menu-item-1595"><a href="/hoteles/" aria-current="page" class="elementor-sub-item elementor-item-active">Hoteles</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1663"><a href="/actividades/" class="elementor-sub-item">Actividades</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1664"><a href="/restaurantes/" class="elementor-sub-item">Restaurantes</a></li>
 </ul>
@@ -154,10 +155,10 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3024"><a href="/conferencista/" class="elementor-item" tabindex="-1">Conferencistas</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1596">
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1596">
 <a href="/cartagena-sede/" class="elementor-item" tabindex="-1">Ciudad y sede</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1595"><a href="/hoteles/" class="elementor-sub-item" tabindex="-1">Hoteles</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1593 current_page_item menu-item-1595"><a href="/hoteles/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">Hoteles</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1663"><a href="/actividades/" class="elementor-sub-item" tabindex="-1">Actividades</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1664"><a href="/restaurantes/" class="elementor-sub-item" tabindex="-1">Restaurantes</a></li>
 </ul>
@@ -193,107 +194,177 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 					</div>
 				</div>
 				</div>
-		
-<main id="content" class="site-main post-2729 page type-page status-publish hentry">
-
-			<div class="page-header">
-			<h1 class="entry-title">Tarifas</h1>		</div>
-	
-	<div class="page-content">
-				<div data-elementor-type="wp-page" data-elementor-id="2729" class="elementor elementor-2729" data-elementor-post-type="page">
-				<div class="elementor-element elementor-element-63d2cf8 e-flex e-con-boxed e-con e-parent" data-id="63d2cf8" data-element_type="container">
+				<div data-elementor-type="wp-page" data-elementor-id="1593" class="elementor elementor-1593" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-5427644 e-con-full e-flex e-con e-child" data-id="5427644" data-element_type="container">
+		<div class="elementor-element elementor-element-a84ea91 e-con-full e-flex e-con e-child" data-id="a84ea91" data-element_type="container">
+				<div class="elementor-element elementor-element-a794d8b e-transform elementor-widget elementor-widget-image" data-id="a794d8b" data-element_type="widget" data-settings="{&quot;_transform_rotateZ_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_widescreen&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_laptop&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="74" height="74" src="/wp-content/uploads/2024/09/Componente-53-–-12.png" class="attachment-full size-full wp-image-1610" alt="">															</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e9ff1fc elementor-widget elementor-widget-heading" data-id="e9ff1fc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Hoteles</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-260f35d e-flex e-con-boxed e-con e-parent" data-id="260f35d" data-element_type="container">
 					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-1cc8b0e e-con-full elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child" data-id="1cc8b0e" data-element_type="container">
-		<div class="elementor-element elementor-element-55cfcaf e-con-full e-flex e-con e-child" data-id="55cfcaf" data-element_type="container">
-				<div class="elementor-element elementor-element-c8e7c11 elementor-widget elementor-widget-heading" data-id="c8e7c11" data-element_type="widget" data-widget_type="heading.default">
+		<div class="elementor-element elementor-element-0545740 e-con-full e-flex e-con e-child" data-id="0545740" data-element_type="container">
+				<div class="elementor-element elementor-element-e51c2d8 elementor-widget elementor-widget-text-editor" data-id="e51c2d8" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Tarifas</h2>				</div>
+									Prepárate para experimentar la magia de Cartagena y encontrar los alojamientos ideales que harán de tu estadía una experiencia inolvidable.								</div>
 				</div>
-		<div class="elementor-element elementor-element-6902145 e-con-full e-flex e-con e-child" data-id="6902145" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-		<div class="elementor-element elementor-element-d0fcbbf e-con-full e-flex e-con e-child" data-id="d0fcbbf" data-element_type="container">
-				<div class="elementor-element elementor-element-c7d7f6f elementor-widget elementor-widget-heading" data-id="c7d7f6f" data-element_type="widget" data-widget_type="heading.default">
+				</div>
+		<div class="elementor-element elementor-element-f71c282 e-con-full e-flex e-con e-child" data-id="f71c282" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-0327922 elementor-widget elementor-widget-heading" data-id="0327922" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Registro</h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default">Contacto</h2>				</div>
 				</div>
-				<div class="elementor-element elementor-element-006b162 elementor-widget elementor-widget-heading" data-id="006b162" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-65bce92 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="65bce92" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">La inscripción incluye el acceso a los tres días de conferencia y talleres. </h2>				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-3d2737f e-con-full e-flex e-con e-child" data-id="3d2737f" data-element_type="container">
-		<div class="elementor-element elementor-element-98fc214 e-con-full e-flex e-con e-child" data-id="98fc214" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-		<div class="elementor-element elementor-element-52db37e e-con-full e-flex e-con e-child" data-id="52db37e" data-element_type="container">
-				<div class="elementor-element elementor-element-f92dd06 elementor-widget elementor-widget-image" data-id="f92dd06" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="74" height="74" src="/wp-content/uploads/2024/09/Grupo-32.png" class="elementor-animation-grow attachment-full size-full wp-image-1487" alt="">															</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-04324b5 e-con-full e-flex e-con e-child" data-id="04324b5" data-element_type="container">
-				<div class="elementor-element elementor-element-1473dbd elementor-widget elementor-widget-heading" data-id="1473dbd" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Residentes y/o Estudiantes<br>
-de Especialización</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-52934e8 elementor-widget elementor-widget-heading" data-id="52934e8" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">$179 USD</h2>				</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-e377bb4 e-con-full e-flex e-con e-child" data-id="e377bb4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-		<div class="elementor-element elementor-element-ad89003 e-con-full e-flex e-con e-child" data-id="ad89003" data-element_type="container">
-				<div class="elementor-element elementor-element-8786159 elementor-widget elementor-widget-image" data-id="8786159" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="74" height="74" src="/wp-content/uploads/2024/09/Grupo-32.png" class="elementor-animation-grow attachment-full size-full wp-image-1487" alt="">															</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-f88d45a e-con-full e-flex e-con e-child" data-id="f88d45a" data-element_type="container">
-				<div class="elementor-element elementor-element-2179e8b elementor-widget elementor-widget-heading" data-id="2179e8b" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Profesionales de la Salud</h2>				</div>
-				</div>
-				<div class="elementor-element elementor-element-d0d1c41 elementor-widget elementor-widget-heading" data-id="d0d1c41" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">$298 USD</h2>				</div>
-				</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-2576bda e-con-full e-flex e-con e-child" data-id="2576bda" data-element_type="container">
-				<div class="elementor-element elementor-element-b59d208 elementor-widget elementor-widget-html" data-id="b59d208" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-					<a href="https://www.asistiendo.com/prod/0020101/0353X2O7R9/reg/intro.asp?id=000001A0S1U9B3K1N5X7X0X4I6Z4R1X2O7R9" class="button22" target="_blank">
-  <span class="text">Registrarme</span>
-  <div class="overlay">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-arrow-right">
-      <path d="M5 12h14"></path>
-      <path d="m12 5 7 7-7 7"></path>
-    </svg>
-  </div>
-</a>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-13f7989 e-con-full e-flex e-con e-child" data-id="13f7989" data-element_type="container">
-				<div class="elementor-element elementor-element-4c70c0d elementor-widget elementor-widget-text-editor" data-id="4c70c0d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									*Le recordamos que su cupo se confirmará una vez que se haya realizado el pago. Tenga en cuenta que la tarifa no es reembolsable y los organizadores de la conferencia no podrán hacerse responsables de los costos derivados de cancelaciones de viaje.								</div>
-				</div>
-				</div>
-				</div>
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="#">
+
+												<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="18.047" height="18.047" viewbox="0 0 18.047 18.047"><path id="llamada-telefonica" d="M9.8.753A.753.753,0,0,1,10.554,0a7.54,7.54,0,0,1,7.532,7.532.753.753,0,0,1-1.506,0,6.032,6.032,0,0,0-6.026-6.026A.753.753,0,0,1,9.8.753Zm.753,3.766a3.013,3.013,0,0,1,3.013,3.013.753.753,0,0,0,1.506,0,4.524,4.524,0,0,0-4.519-4.519.753.753,0,1,0,0,1.506ZM17.4,12.607a2.335,2.335,0,0,1,0,3.3l-.685.79C10.549,22.6-4.462,7.593,1.353,1.405L2.219.652a2.321,2.321,0,0,1,3.259.03C5.5.705,6.9,2.518,6.9,2.518a2.335,2.335,0,0,1-.005,3.225l-.872,1.1a9.627,9.627,0,0,0,5.22,5.231l1.1-.877a2.335,2.335,0,0,1,3.224,0S17.38,12.584,17.4,12.607Zm-1.036,1.1s-1.8-1.387-1.826-1.41a.829.829,0,0,0-1.167,0c-.02.021-1.54,1.231-1.54,1.231a.753.753,0,0,1-.737.114A11.3,11.3,0,0,1,4.453,7a.753.753,0,0,1,.109-.753s1.21-1.52,1.231-1.54a.829.829,0,0,0,0-1.167c-.023-.023-1.41-1.826-1.41-1.826a.829.829,0,0,0-1.137.029L2.38,2.5c-4.25,5.11,8.759,17.4,13.237,13.165l.686-.791a.844.844,0,0,0,.064-1.173Z" transform="translate(-0.039 0.002)" fill="#004081"></path></svg>						</span>
+										<span class="elementor-icon-list-text"><b>Celular:</b> 3157316579 - 3228172813</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="18.077" height="16.57" viewbox="0 0 18.077 16.57"><path id="sobre" d="M14.311,1H3.766A3.77,3.77,0,0,0,0,4.766V13.8A3.77,3.77,0,0,0,3.766,17.57H14.311A3.77,3.77,0,0,0,18.077,13.8V4.766A3.77,3.77,0,0,0,14.311,1ZM3.766,2.506H14.311A2.26,2.26,0,0,1,16.4,3.928L10.637,9.7a2.265,2.265,0,0,1-3.2,0L1.672,3.928A2.26,2.26,0,0,1,3.766,2.506ZM14.311,16.064H3.766a2.26,2.26,0,0,1-2.26-2.26V5.9l4.869,4.866a3.771,3.771,0,0,0,5.327,0L16.57,5.9V13.8A2.26,2.26,0,0,1,14.311,16.064Z" transform="translate(0 -1)" fill="#004081"></path></svg>						</span>
+										<span class="elementor-icon-list-text"><b>Email: </b>alojamiento@aviatur.com</span>
+									</li>
+						</ul>
+						</div>
 				</div>
 				</div>
 					</div>
 				</div>
+		<div class="elementor-element elementor-element-e040625 e-flex e-con-boxed e-con e-parent" data-id="e040625" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-f6ef7f7 e-con-full e-flex e-con e-child" data-id="f6ef7f7" data-element_type="container">
+		<div class="elementor-element elementor-element-0c4d7e3 e-con-full e-flex e-con e-child" data-id="0c4d7e3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-2f2333a elementor-widget elementor-widget-image" data-id="2f2333a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="346" height="244" src="/wp-content/uploads/2024/09/img_hotels-4.png" class="attachment-full size-full wp-image-1611" alt="" srcset="/wp-content/uploads/2024/09/img_hotels-4.png 346w, /wp-content/uploads/2024/09/img_hotels-4-300x212.png 300w" sizes="(max-width: 346px) 100vw, 346px">															</div>
 				</div>
-		
-		
-			</div>
-
-	
-</main>
-
-			<div data-elementor-type="footer" data-elementor-id="1488" class="elementor elementor-1488 elementor-location-footer" data-elementor-post-type="elementor_library">
+		<div class="elementor-element elementor-element-a82b551 e-con-full e-flex e-con e-child" data-id="a82b551" data-element_type="container">
+				<div class="elementor-element elementor-element-6fb94dd elementor-widget elementor-widget-heading" data-id="6fb94dd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Radisson
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-a7e2caf elementor-widget elementor-widget-heading" data-id="a7e2caf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">$600.000 + IVA  <br>
+Alojamiento Sencilla  </h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-cc56f61 e-con-full e-flex e-con e-child" data-id="cc56f61" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-62dc118 elementor-widget elementor-widget-image" data-id="62dc118" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1600" height="1200" src="/wp-content/uploads/2024/09/hotel_mourro.jpg" class="attachment-full size-full wp-image-1612" alt="" srcset="/wp-content/uploads/2024/09/hotel_mourro.jpg 1600w, /wp-content/uploads/2024/09/hotel_mourro-300x225.jpg 300w, /wp-content/uploads/2024/09/hotel_mourro-1024x768.jpg 1024w, /wp-content/uploads/2024/09/hotel_mourro-768x576.jpg 768w, /wp-content/uploads/2024/09/hotel_mourro-1536x1152.jpg 1536w" sizes="(max-width: 1600px) 100vw, 1600px">															</div>
+				</div>
+		<div class="elementor-element elementor-element-93f2f67 e-con-full e-flex e-con e-child" data-id="93f2f67" data-element_type="container">
+				<div class="elementor-element elementor-element-ced12e7 elementor-widget elementor-widget-heading" data-id="ced12e7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Holiday Inn Morros</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ab461a3 elementor-widget elementor-widget-heading" data-id="ab461a3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">$ 530.000 + IVA <br>
+Alojamiento Sencilla  
+</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c2778d3 e-con-full e-flex e-con e-child" data-id="c2778d3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-4b85168 elementor-widget elementor-widget-image" data-id="4b85168" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="346" height="244" src="/wp-content/uploads/2024/09/img_hotels-3.png" class="attachment-full size-full wp-image-1613" alt="" srcset="/wp-content/uploads/2024/09/img_hotels-3.png 346w, /wp-content/uploads/2024/09/img_hotels-3-300x212.png 300w" sizes="(max-width: 346px) 100vw, 346px">															</div>
+				</div>
+		<div class="elementor-element elementor-element-3a12e36 e-con-full e-flex e-con e-child" data-id="3a12e36" data-element_type="container">
+				<div class="elementor-element elementor-element-850015e elementor-widget elementor-widget-heading" data-id="850015e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sonesta</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-608ea55 elementor-widget elementor-widget-heading" data-id="608ea55" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">$ 530.000 + IVA<br>
+Alojamiento Sencilla</h2>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d123c6d e-con-full e-flex e-con e-child" data-id="d123c6d" data-element_type="container">
+				<div class="elementor-element elementor-element-311232c elementor-widget elementor-widget-heading" data-id="311232c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Con servicio de transporte al evento
+</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8d2d66d e-con-full e-flex e-con e-child" data-id="8d2d66d" data-element_type="container">
+		<div class="elementor-element elementor-element-d44744d e-con-full e-flex e-con e-child" data-id="d44744d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-189e288 elementor-widget elementor-widget-image" data-id="189e288" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="346" height="244" src="/wp-content/uploads/2024/09/img_hotels-1.png" class="attachment-full size-full wp-image-1614" alt="" srcset="/wp-content/uploads/2024/09/img_hotels-1.png 346w, /wp-content/uploads/2024/09/img_hotels-1-300x212.png 300w" sizes="(max-width: 346px) 100vw, 346px">															</div>
+				</div>
+		<div class="elementor-element elementor-element-15dbe9b e-con-full e-flex e-con e-child" data-id="15dbe9b" data-element_type="container">
+				<div class="elementor-element elementor-element-530a9ab elementor-widget elementor-widget-heading" data-id="530a9ab" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Américas Torre del Mar
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-086bf65 elementor-widget elementor-widget-heading" data-id="086bf65" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">$ 753.768 más IVA</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-daf0e13 e-con-full e-flex e-con e-child" data-id="daf0e13" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-e2239cd elementor-widget elementor-widget-image" data-id="e2239cd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="346" height="244" src="/wp-content/uploads/2024/09/img_hotels-2.png" class="attachment-full size-full wp-image-1616" alt="" srcset="/wp-content/uploads/2024/09/img_hotels-2.png 346w, /wp-content/uploads/2024/09/img_hotels-2-300x212.png 300w" sizes="(max-width: 346px) 100vw, 346px">															</div>
+				</div>
+		<div class="elementor-element elementor-element-9af02f4 e-con-full e-flex e-con e-child" data-id="9af02f4" data-element_type="container">
+				<div class="elementor-element elementor-element-4236d07 elementor-widget elementor-widget-heading" data-id="4236d07" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Américas Casa de Playa</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-a7cac17 elementor-widget elementor-widget-heading" data-id="a7cac17" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">$ 613.432 más IVA  
+</h2>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-926b82e e-con-full e-flex e-con e-child" data-id="926b82e" data-element_type="container">
+				<div class="elementor-element elementor-element-a353cff elementor-widget elementor-widget-heading" data-id="a353cff" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Hotel sede del evento
+</h2>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-48ccf12 e-flex e-con-boxed e-con e-parent" data-id="48ccf12" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-617bef6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="617bef6" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				<div data-elementor-type="footer" data-elementor-id="1488" class="elementor elementor-1488 elementor-location-footer" data-elementor-post-type="elementor_library">
 			<div class="elementor-element elementor-element-e47d557 e-con-full bottom_contact_footer e-flex e-con e-parent" data-id="e47d557" data-element_type="container" id="bottom_contact_footer" data-settings="{&quot;position&quot;:&quot;fixed&quot;,&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;laptop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
 				<div class="elementor-element elementor-element-b98e846 elementor-widget elementor-widget-html" data-id="b98e846" data-element_type="widget" data-widget_type="html.default">
 				<div class="elementor-widget-container">
@@ -399,10 +470,10 @@ de Especialización</h2>				</div>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3024"><a href="/conferencista/" class="elementor-item">Conferencistas</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1596">
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1596">
 <a href="/cartagena-sede/" class="elementor-item">Ciudad y sede</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1595"><a href="/hoteles/" class="elementor-sub-item">Hoteles</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1593 current_page_item menu-item-1595"><a href="/hoteles/" aria-current="page" class="elementor-sub-item elementor-item-active">Hoteles</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1663"><a href="/actividades/" class="elementor-sub-item">Actividades</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1664"><a href="/restaurantes/" class="elementor-sub-item">Restaurantes</a></li>
 </ul>
@@ -427,10 +498,10 @@ de Especialización</h2>				</div>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3024"><a href="/conferencista/" class="elementor-item" tabindex="-1">Conferencistas</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1596">
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1596">
 <a href="/cartagena-sede/" class="elementor-item" tabindex="-1">Ciudad y sede</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1595"><a href="/hoteles/" class="elementor-sub-item" tabindex="-1">Hoteles</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1593 current_page_item menu-item-1595"><a href="/hoteles/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">Hoteles</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1663"><a href="/actividades/" class="elementor-sub-item" tabindex="-1">Actividades</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1664"><a href="/restaurantes/" class="elementor-sub-item" tabindex="-1">Restaurantes</a></li>
 </ul>
@@ -501,9 +572,9 @@ de Especialización</h2>				</div>
 							<form class="elementor-form" method="post" id="form_whatsapp" name="Formulario Whatsapp Popup">
 			<input type="hidden" name="post_id" value="549">
 			<input type="hidden" name="form_id" value="2c1ada8">
-			<input type="hidden" name="referer_title" value="Tarifas">
+			<input type="hidden" name="referer_title" value="Hoteles">
 
-							<input type="hidden" name="queried_id" value="2729">
+							<input type="hidden" name="queried_id" value="1593">
 			
 			<div class="elementor-form-fields-wrapper elementor-labels-above">
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-md-100 elementor-field-required elementor-mark-required">
@@ -775,7 +846,7 @@ function handleSubmit(event) {
 <script src="/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.30.2" id="elementor-webpack-runtime-js"></script>
 <script src="/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.30.2" id="elementor-frontend-modules-js"></script>
 <script src="/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir vídeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la última diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Móvil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Móvil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"3.30.2","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"e_element_cache":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"dd86cb91ef"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop","viewport_widescreen"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":2729,"title":"Tarifas%20%E2%80%93%20ghc2025","excerpt":"","featuredImage":false}};</script>
+<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir vídeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la última diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Móvil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Móvil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"3.30.2","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"e_element_cache":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"dd86cb91ef"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop","viewport_widescreen"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":1593,"title":"Hoteles%20%E2%80%93%20ghc2025","excerpt":"","featuredImage":false}};</script>
 <script src="/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.30.2" id="elementor-frontend-js"></script>
 <script src="/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js"></script>
 <script src="/wp-content/plugins/pro-elements/assets/lib/sticky/jquery.sticky.min.js?ver=3.29.0" id="e-sticky-js"></script>
