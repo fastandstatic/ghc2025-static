@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<title>Cumbre: Iniciativa regional sobre el Dengue &#8211; ghc2025</title>
+	<title>Hoteles &#8211; ghc2025</title>
 <meta name="robots" content="max-image-preview:large">
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 	<link rel="alternate" type="application/rss+xml" title="ghc2025 &raquo; Feed" href="/feed/">
@@ -44,8 +44,9 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 <link rel="stylesheet" id="widget-form-css" href="/wp-content/plugins/pro-elements/assets/css/widget-form.min.css?ver=3.29.0" media="all">
 <link rel="stylesheet" id="e-animation-bounceIn-css" href="/wp-content/plugins/elementor/assets/lib/animations/styles/bounceIn.min.css?ver=3.30.2" media="all">
 <link rel="stylesheet" id="e-animation-fadeIn-css" href="/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.30.2" media="all">
-<link rel="stylesheet" id="widget-nested-tabs-css" href="/wp-content/uploads/elementor/css/custom-widget-nested-tabs.min.css?ver=1752703525" media="all">
-<link rel="stylesheet" id="elementor-post-2619-css" href="/wp-content/uploads/elementor/css/post-2619.css?ver=1752703591" media="all">
+<link rel="stylesheet" id="widget-icon-list-css" href="/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1752703521" media="all">
+<link rel="stylesheet" id="widget-divider-css" href="/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.30.2" media="all">
+<link rel="stylesheet" id="elementor-post-1593-css" href="/wp-content/uploads/elementor/css/post-1593.css?ver=1752704784" media="all">
 <link rel="stylesheet" id="elementor-post-1476-css" href="/wp-content/uploads/elementor/css/post-1476.css?ver=1752703548" media="all">
 <link rel="stylesheet" id="elementor-post-1488-css" href="/wp-content/uploads/elementor/css/post-1488.css?ver=1752703548" media="all">
 <link rel="stylesheet" id="elementor-post-1709-css" href="/wp-content/uploads/elementor/css/post-1709.css?ver=1752703564" media="all">
@@ -53,16 +54,17 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 <link rel="stylesheet" id="elementor-gf-local-roboto-css" href="/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742227792" media="all">
 <link rel="stylesheet" id="elementor-gf-local-robotoslab-css" href="/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742227795" media="all">
 <link rel="stylesheet" id="elementor-gf-local-poppins-css" href="/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1742227796" media="all">
+<link rel="stylesheet" id="elementor-gf-local-worksans-css" href="/wp-content/uploads/elementor/google-fonts/css/worksans.css?ver=1742227798" media="all">
 <script src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <link rel="https://api.w.org/" href="/wp-json/">
-<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/2619">
+<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/1593">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <meta name="generator" content="WordPress 6.8.2">
-<link rel="canonical" href="/cumbre-iniciativa-regional-sobre-el-dengue/">
-<link rel="shortlink" href="/?p=2619">
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fcumbre-iniciativa-regional-sobre-el-dengue%2F">
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fcumbre-iniciativa-regional-sobre-el-dengue%2F#038;format=xml">
+<link rel="canonical" href="/hoteles/">
+<link rel="shortlink" href="/?p=1593">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fhoteles%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fhoteles%2F#038;format=xml">
 <meta name="generator" content="Elementor 3.30.2; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-auto">
 			<style>.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -85,7 +87,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 <link rel="apple-touch-icon" href="/wp-content/uploads/2024/09/cropped-svglogo_img45-180x180.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2024/09/cropped-svglogo_img45-270x270.png">
 </head>
-<body class="wp-singular page-template page-template-elementor_header_footer page page-id-2619 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-2619">
+<body class="wp-singular page-template page-template-elementor_header_footer page page-id-1593 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-1593">
 
 
 <a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
@@ -114,19 +116,19 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12151"><a href="/comite-cientifico/" class="elementor-sub-item">Comité científico</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2973">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2973">
 <a href="#" class="elementor-item elementor-item-anchor">Agenda</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2964"><a href="/workshops-virtuales/" class="elementor-sub-item">Workshops virtuales</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2619 current_page_item menu-item-2965"><a href="/cumbre-iniciativa-regional-sobre-el-dengue/" aria-current="page" class="elementor-sub-item elementor-item-active">Cumbre: Iniciativa regional sobre el Dengue</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2965"><a href="/cumbre-iniciativa-regional-sobre-el-dengue/" class="elementor-sub-item">Cumbre: Iniciativa regional sobre el Dengue</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2966"><a href="/programa-academico/" class="elementor-sub-item">Programa académico</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3024"><a href="/conferencista/" class="elementor-item">Conferencistas</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1596">
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1596">
 <a href="/cartagena-sede/" class="elementor-item">Ciudad y sede</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1595"><a href="/hoteles/" class="elementor-sub-item">Hoteles</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1593 current_page_item menu-item-1595"><a href="/hoteles/" aria-current="page" class="elementor-sub-item elementor-item-active">Hoteles</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1663"><a href="/actividades/" class="elementor-sub-item">Actividades</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1664"><a href="/restaurantes/" class="elementor-sub-item">Restaurantes</a></li>
 </ul>
@@ -144,19 +146,19 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12151"><a href="/comite-cientifico/" class="elementor-sub-item" tabindex="-1">Comité científico</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2973">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2973">
 <a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Agenda</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2964"><a href="/workshops-virtuales/" class="elementor-sub-item" tabindex="-1">Workshops virtuales</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2619 current_page_item menu-item-2965"><a href="/cumbre-iniciativa-regional-sobre-el-dengue/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">Cumbre: Iniciativa regional sobre el Dengue</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2965"><a href="/cumbre-iniciativa-regional-sobre-el-dengue/" class="elementor-sub-item" tabindex="-1">Cumbre: Iniciativa regional sobre el Dengue</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2966"><a href="/programa-academico/" class="elementor-sub-item" tabindex="-1">Programa académico</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3024"><a href="/conferencista/" class="elementor-item" tabindex="-1">Conferencistas</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1596">
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1596">
 <a href="/cartagena-sede/" class="elementor-item" tabindex="-1">Ciudad y sede</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1595"><a href="/hoteles/" class="elementor-sub-item" tabindex="-1">Hoteles</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1593 current_page_item menu-item-1595"><a href="/hoteles/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">Hoteles</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1663"><a href="/actividades/" class="elementor-sub-item" tabindex="-1">Actividades</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1664"><a href="/restaurantes/" class="elementor-sub-item" tabindex="-1">Restaurantes</a></li>
 </ul>
@@ -192,338 +194,172 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 					</div>
 				</div>
 				</div>
-				<div data-elementor-type="wp-page" data-elementor-id="2619" class="elementor elementor-2619" data-elementor-post-type="page">
-				<div class="elementor-element elementor-element-63d2cf8 e-flex e-con-boxed e-con e-parent" data-id="63d2cf8" data-element_type="container">
+				<div data-elementor-type="wp-page" data-elementor-id="1593" class="elementor elementor-1593" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-5427644 e-con-full e-flex e-con e-child" data-id="5427644" data-element_type="container">
+		<div class="elementor-element elementor-element-a84ea91 e-con-full e-flex e-con e-child" data-id="a84ea91" data-element_type="container">
+				<div class="elementor-element elementor-element-a794d8b e-transform elementor-widget elementor-widget-image" data-id="a794d8b" data-element_type="widget" data-settings="{&quot;_transform_rotateZ_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_widescreen&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_laptop&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="74" height="74" src="/wp-content/uploads/2024/09/Componente-53-–-12.png" class="attachment-full size-full wp-image-1610" alt="">															</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e9ff1fc elementor-widget elementor-widget-heading" data-id="e9ff1fc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Hoteles</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-260f35d e-flex e-con-boxed e-con e-parent" data-id="260f35d" data-element_type="container">
 					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-1cc8b0e e-con-full e-flex e-con e-child" data-id="1cc8b0e" data-element_type="container">
-		<div class="elementor-element elementor-element-55cfcaf e-con-full e-flex e-con e-child" data-id="55cfcaf" data-element_type="container">
-				<div class="elementor-element elementor-element-c8e7c11 elementor-widget__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="c8e7c11" data-element_type="widget" data-widget_type="heading.default">
+		<div class="elementor-element elementor-element-0545740 e-con-full e-flex e-con e-child" data-id="0545740" data-element_type="container">
+				<div class="elementor-element elementor-element-e51c2d8 elementor-widget elementor-widget-text-editor" data-id="e51c2d8" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Cumbre: Iniciativa regional sobre el Dengue</h2>				</div>
+									Prepárate para experimentar la magia de Cartagena y encontrar los alojamientos ideales que harán de tu estadía una experiencia inolvidable.								</div>
 				</div>
-				<div class="elementor-element elementor-element-6abfbf1 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="6abfbf1" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Presencial - Pre Conferencia
-9 de septiembre</h2>				</div>
 				</div>
-				<div class="elementor-element elementor-element-6b93ee8 e-n-tabs-none elementor-widget elementor-widget-n-tabs" data-id="6b93ee8" data-element_type="widget" data-settings="{&quot;horizontal_scroll_mobile&quot;:&quot;enable&quot;,&quot;horizontal_scroll&quot;:&quot;disable&quot;}" data-widget_type="nested-tabs.default">
+		<div class="elementor-element elementor-element-f71c282 e-con-full e-flex e-con e-child" data-id="f71c282" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-0327922 elementor-widget elementor-widget-heading" data-id="0327922" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-							<div class="e-n-tabs" data-widget-number="112803560" aria-label="Pestañas. Abre elementos con Intro o Espacio, ciérralos con Escape y navega con las fechas.">
-			<div class="e-n-tabs-heading" role="tablist">
-					<button id="e-n-tab-title-1128035601" class="e-n-tab-title" aria-selected="true" data-tab-index="1" role="tab" tabindex="0" aria-controls="e-n-tab-content-1128035601" style="--n-tabs-title-order: 1;">
-						<span class="e-n-tab-title-text">
-				Martes 9 de septiembre			</span>
-		</button>
-					</div>
-			<div class="e-n-tabs-content">
-				<div id="e-n-tab-content-1128035601" role="tabpanel" aria-labelledby="e-n-tab-title-1128035601" data-tab-index="1" style="--n-tabs-title-order: 1;" class="e-active elementor-element elementor-element-3779a58 e-con-full e-flex e-con e-child" data-id="3779a58" data-element_type="container">
-		<div class="elementor-element elementor-element-fd97f5f e-con-full e-flex e-con e-child" data-id="fd97f5f" data-element_type="container">
-				<div class="elementor-element elementor-element-f07bd2d elementor-widget elementor-widget-shortcode" data-id="f07bd2d" data-element_type="widget" data-widget_type="shortcode.default">
-				<div class="elementor-widget-container">
-							<div class="elementor-shortcode">		<div data-elementor-type="container" data-elementor-id="2624" class="elementor elementor-2624" data-elementor-post-type="elementor_library">
-				<div class="elementor-element elementor-element-7f769ebc e-flex e-con-boxed e-con e-parent" data-id="7f769ebc" data-element_type="container">
-					<div class="e-con-inner">
-		<div class="elementor-element elementor-element-79b575c8 e-con-full e-flex e-con e-child" data-id="79b575c8" data-element_type="container">
-		<div class="elementor-element elementor-element-4b15386 e-con-full e-flex e-con e-child" data-id="4b15386" data-element_type="container">
-		<div class="elementor-element elementor-element-3b1a0d1b e-con-full e-flex e-con e-child" data-id="3b1a0d1b" data-element_type="container">
-				<div class="elementor-element elementor-element-260608ef elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="260608ef" data-element_type="widget" data-widget_type="icon-list.default">
+					<h2 class="elementor-heading-title elementor-size-default">Contacto</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-65bce92 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="65bce92" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 							<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
+											<a href="#">
+
+												<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="18.047" height="18.047" viewbox="0 0 18.047 18.047"><path id="llamada-telefonica" d="M9.8.753A.753.753,0,0,1,10.554,0a7.54,7.54,0,0,1,7.532,7.532.753.753,0,0,1-1.506,0,6.032,6.032,0,0,0-6.026-6.026A.753.753,0,0,1,9.8.753Zm.753,3.766a3.013,3.013,0,0,1,3.013,3.013.753.753,0,0,0,1.506,0,4.524,4.524,0,0,0-4.519-4.519.753.753,0,1,0,0,1.506ZM17.4,12.607a2.335,2.335,0,0,1,0,3.3l-.685.79C10.549,22.6-4.462,7.593,1.353,1.405L2.219.652a2.321,2.321,0,0,1,3.259.03C5.5.705,6.9,2.518,6.9,2.518a2.335,2.335,0,0,1-.005,3.225l-.872,1.1a9.627,9.627,0,0,0,5.22,5.231l1.1-.877a2.335,2.335,0,0,1,3.224,0S17.38,12.584,17.4,12.607Zm-1.036,1.1s-1.8-1.387-1.826-1.41a.829.829,0,0,0-1.167,0c-.02.021-1.54,1.231-1.54,1.231a.753.753,0,0,1-.737.114A11.3,11.3,0,0,1,4.453,7a.753.753,0,0,1,.109-.753s1.21-1.52,1.231-1.54a.829.829,0,0,0,0-1.167c-.023-.023-1.41-1.826-1.41-1.826a.829.829,0,0,0-1.137.029L2.38,2.5c-4.25,5.11,8.759,17.4,13.237,13.165l.686-.791a.844.844,0,0,0,.064-1.173Z" transform="translate(-0.039 0.002)" fill="#004081"></path></svg>						</span>
+										<span class="elementor-icon-list-text"><b>Celular:</b> 3157316579 - 3228172813</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
 											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">8:15 - 8:45</span>
+							<svg xmlns="http://www.w3.org/2000/svg" width="18.077" height="16.57" viewbox="0 0 18.077 16.57"><path id="sobre" d="M14.311,1H3.766A3.77,3.77,0,0,0,0,4.766V13.8A3.77,3.77,0,0,0,3.766,17.57H14.311A3.77,3.77,0,0,0,18.077,13.8V4.766A3.77,3.77,0,0,0,14.311,1ZM3.766,2.506H14.311A2.26,2.26,0,0,1,16.4,3.928L10.637,9.7a2.265,2.265,0,0,1-3.2,0L1.672,3.928A2.26,2.26,0,0,1,3.766,2.506ZM14.311,16.064H3.766a2.26,2.26,0,0,1-2.26-2.26V5.9l4.869,4.866a3.771,3.771,0,0,0,5.327,0L16.57,5.9V13.8A2.26,2.26,0,0,1,14.311,16.064Z" transform="translate(0 -1)" fill="#004081"></path></svg>						</span>
+										<span class="elementor-icon-list-text"><b>Email: </b>alojamiento@aviatur.com</span>
 									</li>
 						</ul>
 						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-6b233a73 e-con-full e-flex e-con e-child" data-id="6b233a73" data-element_type="container">
-				<div class="elementor-element elementor-element-f015e66 elementor-widget elementor-widget-text-editor" data-id="f015e66" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p><strong>Presentación de la Iniciativa Dengue en las Américas (DIA)</strong><br><strong>Objetivos y agenda del encuentro</strong><br>Dr. Carlos Espinal (GHC/DGH, FIU, EE.UU.)</p>								</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-26e73df9 e-con-full e-flex e-con e-child" data-id="26e73df9" data-element_type="container">
-		<div class="elementor-element elementor-element-421b67b1 e-con-full e-flex e-con e-child" data-id="421b67b1" data-element_type="container">
-				<div class="elementor-element elementor-element-41c53231 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="41c53231" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-							<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">8:45 - 10:00</span>
-									</li>
-						</ul>
-						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-49f2d14 e-con-full e-flex e-con e-child" data-id="49f2d14" data-element_type="container">
-				<div class="elementor-element elementor-element-39de482c elementor-widget elementor-widget-text-editor" data-id="39de482c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p><strong>Dengue en las Américas y en el mundo</strong><br>Moderador: Dr. Joao Bosco (Universidad Federal de Goias, Brasil)</p>
-<p><strong>Situación global del dengue</strong><br>Dra. Diana Rojas (OMS, Suiza)</p>
-<p><strong>Epidemiología y vigilancia en América Latina y el Caribe</strong><br><em>Determinantes sociales e impacto del cambio climático</em><br>Dr. José Luis Sanmartin (OPS/OMS, EE.UU.)</p>
-<p><strong>Discusión y preguntas</strong></p>								</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-3ee5750 e-con-full e-flex e-con e-child" data-id="3ee5750" data-element_type="container">
-		<div class="elementor-element elementor-element-12811e6f e-con-full e-flex e-con e-child" data-id="12811e6f" data-element_type="container">
-				<div class="elementor-element elementor-element-c3a9e6 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="c3a9e6" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-							<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">10:00 - 11:00</span>
-									</li>
-						</ul>
-						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-238a3bbe e-con-full e-flex e-con e-child" data-id="238a3bbe" data-element_type="container">
-				<div class="elementor-element elementor-element-ef0b2d9 elementor-widget elementor-widget-text-editor" data-id="ef0b2d9" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p><strong>Guías para el manejo clínico del dengue: actualizaciones y definiciones</strong><br>Moderador: Dr. Alfonso Javier Rodríguez-Morales (SLAMVI, Colombia)</p>
-<p>Dr. Gamaliel Gutíerrez (OPS/OMS, EE.UU.)</p>
-<p>Dr. Wilfrido Coronell (SLIPE, Colombia)</p>
-<p><strong>Discusión y preguntas</strong></p>								</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-fd28f20 e-con-full e-flex e-con e-child" data-id="fd28f20" data-element_type="container">
-		<div class="elementor-element elementor-element-65cd935 e-con-full e-flex e-con e-child" data-id="65cd935" data-element_type="container">
-				<div class="elementor-element elementor-element-5777cb9 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5777cb9" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-							<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">11:00 - 11:15</span>
-									</li>
-						</ul>
-						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-02bface e-con-full e-flex e-con e-child" data-id="02bface" data-element_type="container">
-				<div class="elementor-element elementor-element-6826fe5 elementor-widget elementor-widget-text-editor" data-id="6826fe5" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p style="text-align: left;">Pausa</p>								</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-b9b3123 e-con-full e-flex e-con e-child" data-id="b9b3123" data-element_type="container">
-		<div class="elementor-element elementor-element-b9d10cf e-con-full e-flex e-con e-child" data-id="b9d10cf" data-element_type="container">
-				<div class="elementor-element elementor-element-1fff563 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1fff563" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-							<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">11:15 - 13:15</span>
-									</li>
-						</ul>
-						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-fc5bd6b e-con-full e-flex e-con e-child" data-id="fc5bd6b" data-element_type="container">
-				<div class="elementor-element elementor-element-2df4059 elementor-widget elementor-widget-text-editor" data-id="2df4059" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p style="text-align: left;"><strong>Implementación de la vacunación contra dengue: ¿dónde estamos?</strong><br>Moderador: Dr. Eduardo López-Medina (CEIP, Colombia)</p>
-<p><strong>Actualizaciones sobre los ensayos clínicos de fase 4</strong><br>Dr. Xavier Sáez-Llorens (CEVAXIN, Panamá)</p>
-<p><strong>Implementación de la vacuna contra el dengue en Argentina, Brasil y Colombia<br>Datos de efectividad y seguridad<br></strong>Dr Andrea Uboldi (Argentina)<br>Dr. Eder Gatti (PNI, Brasil)<br>Dr. Julio Croda Dourados (FIOCRUZ, Brasil)<br>Dr. Carmen Elisa Ojeda (PNI, Colombia)<strong><br></strong></p>
-<p><strong>Discusión</strong></p>								</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-e2b3852 e-con-full e-flex e-con e-child" data-id="e2b3852" data-element_type="container">
-		<div class="elementor-element elementor-element-0454e66 e-con-full e-flex e-con e-child" data-id="0454e66" data-element_type="container">
-				<div class="elementor-element elementor-element-55bf956 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="55bf956" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-							<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">13:15</span>
-									</li>
-						</ul>
-						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-86e395a e-con-full e-flex e-con e-child" data-id="86e395a" data-element_type="container">
-				<div class="elementor-element elementor-element-2fbdf4d elementor-widget elementor-widget-text-editor" data-id="2fbdf4d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p style="text-align: left;"> Almuerzo (lunch-box)</p>								</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-33da1a3 e-con-full e-flex e-con e-child" data-id="33da1a3" data-element_type="container">
-		<div class="elementor-element elementor-element-21d4270 e-con-full e-flex e-con e-child" data-id="21d4270" data-element_type="container">
-				<div class="elementor-element elementor-element-3224424 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3224424" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-							<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">13:15 - 14:00</span>
-									</li>
-						</ul>
-						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-ae5ba17 e-con-full e-flex e-con e-child" data-id="ae5ba17" data-element_type="container">
-				<div class="elementor-element elementor-element-2cd8e96 elementor-widget elementor-widget-text-editor" data-id="2cd8e96" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p style="text-align: left;"><strong>Desafíos en la implementación de vacunas contra el dengue<br>Modelaje de intervenciones</strong><br>Moderador: Dr. Luis Jorge Hernández (UNIANDES, Colombia)<br>Conferencista: Dra. Zulma Cucunuba (Pontificia Universidad Javeriana, Colombia)<br>Panel de discusion: Dr Zulma Cucunuba, Dr Fernando de la Hoz Universidad Nacional</p>
-<p style="text-align: left;"><strong>Panel de discusión<br></strong>Dra. Zulma Cucunuba (Pontificia Universidad Javeriana, Colombia)<br>Dr. Fernando de la Hoz (Universidad Nacional de Colombia)<strong><br></strong></p>								</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-b2ad2e0 e-con-full e-flex e-con e-child" data-id="b2ad2e0" data-element_type="container">
-		<div class="elementor-element elementor-element-1558678 e-con-full e-flex e-con e-child" data-id="1558678" data-element_type="container">
-				<div class="elementor-element elementor-element-407f31c elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="407f31c" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-							<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">14:00 - 15:00</span>
-									</li>
-						</ul>
-						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-4ecefa3 e-con-full e-flex e-con e-child" data-id="4ecefa3" data-element_type="container">
-				<div class="elementor-element elementor-element-23d1925 elementor-widget elementor-widget-text-editor" data-id="23d1925" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p style="text-align: left;"><strong>Mesa redonda y panel de discusión<br></strong>Moderador: Dr. Francisco Becerra (GHC/DGH, FIU, México)<br>Hoja de ruta para la implementación de la vacuna del dengue.<br>Optimización del proceso de toma de decisiones para introducir la vacuna. <br>Principales obstáculos para la implementación de programas de vacunación.<strong><br></strong></p>								</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-a5e55f3 e-con-full e-flex e-con e-child" data-id="a5e55f3" data-element_type="container">
-		<div class="elementor-element elementor-element-0c42c70 e-con-full e-flex e-con e-child" data-id="0c42c70" data-element_type="container">
-				<div class="elementor-element elementor-element-ba39c22 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="ba39c22" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-							<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">15:00 - 15:15</span>
-									</li>
-						</ul>
-						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-42b333e e-con-full e-flex e-con e-child" data-id="42b333e" data-element_type="container">
-				<div class="elementor-element elementor-element-eb586e2 elementor-widget elementor-widget-text-editor" data-id="eb586e2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p style="text-align: left;">Pausa</p>								</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-df4defa e-con-full e-flex e-con e-child" data-id="df4defa" data-element_type="container">
-		<div class="elementor-element elementor-element-7e403a7 e-con-full e-flex e-con e-child" data-id="7e403a7" data-element_type="container">
-				<div class="elementor-element elementor-element-f15c98a elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="f15c98a" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-							<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">15:15 - 16:15</span>
-									</li>
-						</ul>
-						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-0e43830 e-con-full e-flex e-con e-child" data-id="0e43830" data-element_type="container">
-				<div class="elementor-element elementor-element-da09a44 elementor-widget elementor-widget-text-editor" data-id="da09a44" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p style="text-align: left;"><strong>Control de vectores<br></strong>Moderador: Dr. Mauricio Javier Vera Soto<br>(Ministerio de Salud y Protección Social, Colombia)<strong><br></strong></p>
-<p><strong>Control de vectores: estrategias y herramientas innovadoras</strong><br>Dr. Haroldo Bezerra (OPS/OMS, EE.UU.)</p>
-<p><strong>Efectividad de Wolbachia y desafíos en la implementación</strong><br>Dr. Iván Darío Vélez (World Mosquito Program, Colombia)</p>
-<p><strong>Discusión</strong></p>								</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-72b44df e-con-full e-flex e-con e-child" data-id="72b44df" data-element_type="container">
-		<div class="elementor-element elementor-element-8ebc5ba e-con-full e-flex e-con e-child" data-id="8ebc5ba" data-element_type="container">
-				<div class="elementor-element elementor-element-c4cd887 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="c4cd887" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-							<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">16:15 - 16:35</span>
-									</li>
-						</ul>
-						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-fa53856 e-con-full e-flex e-con e-child" data-id="fa53856" data-element_type="container">
-				<div class="elementor-element elementor-element-89d2a96 elementor-widget elementor-widget-text-editor" data-id="89d2a96" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p style="text-align: left;"><strong>Iniciativas innovadoras en la vigilancia del dengue</strong><br><strong>Desafíos y nuevas oportunidades</strong><br>Moderador: Dr. Alfonso Javier Rodríguez-Morales (SLAMVI, Colombia)<br>Conferencista: Dr. Joao Bosco (Universidad Federal de Goias, Brasil)</p>								</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-8853ea2 e-con-full e-flex e-con e-child" data-id="8853ea2" data-element_type="container">
-		<div class="elementor-element elementor-element-05f336d e-con-full e-flex e-con e-child" data-id="05f336d" data-element_type="container">
-				<div class="elementor-element elementor-element-97f6923 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="97f6923" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-							<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">16:35 - 17:30</span>
-									</li>
-						</ul>
-						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-62a965e e-con-full e-flex e-con e-child" data-id="62a965e" data-element_type="container">
-				<div class="elementor-element elementor-element-5119394 elementor-widget elementor-widget-text-editor" data-id="5119394" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p style="text-align: left;"><strong>Mesa redonda y panel de discusión</strong><br>Moderador: Dr. Francisco Becerra (GHC/DGH, FIU, México)<br>Innovaciones en la vigilancia del dengue<br>Participación ciudadana en el control de brotes<br>¿Es posible predecir los brotes de dengue?</p>								</div>
-				</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-5e16101 e-con-full e-flex e-con e-child" data-id="5e16101" data-element_type="container">
-		<div class="elementor-element elementor-element-e22576b e-con-full e-flex e-con e-child" data-id="e22576b" data-element_type="container">
-				<div class="elementor-element elementor-element-342c86f elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="342c86f" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-							<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<svg aria-hidden="true" class="e-font-icon-svg e-fas-check" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">17:30</span>
-									</li>
-						</ul>
-						</div>
-				</div>
-				</div>
-		<div class="elementor-element elementor-element-f399a7c e-con-full e-flex e-con e-child" data-id="f399a7c" data-element_type="container">
-				<div class="elementor-element elementor-element-c1a8820 elementor-widget elementor-widget-text-editor" data-id="c1a8820" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-									<p style="text-align: left;"><strong>Conclusiones</strong><br>Dr. Carlos Espinal (GHC/DGH, FIU, EE.UU.)</p>								</div>
-				</div>
-				</div>
 				</div>
 				</div>
 					</div>
 				</div>
+		<div class="elementor-element elementor-element-e040625 e-flex e-con-boxed e-con e-parent" data-id="e040625" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-f6ef7f7 e-con-full e-flex e-con e-child" data-id="f6ef7f7" data-element_type="container">
+		<div class="elementor-element elementor-element-0c4d7e3 e-con-full e-flex e-con e-child" data-id="0c4d7e3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-2f2333a elementor-widget elementor-widget-image" data-id="2f2333a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="346" height="244" src="/wp-content/uploads/2024/09/img_hotels-4.png" class="attachment-full size-full wp-image-1611" alt="" srcset="/wp-content/uploads/2024/09/img_hotels-4.png 346w, /wp-content/uploads/2024/09/img_hotels-4-300x212.png 300w" sizes="(max-width: 346px) 100vw, 346px">															</div>
 				</div>
+		<div class="elementor-element elementor-element-a82b551 e-con-full e-flex e-con e-child" data-id="a82b551" data-element_type="container">
+				<div class="elementor-element elementor-element-6fb94dd elementor-widget elementor-widget-heading" data-id="6fb94dd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Radisson
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-a7e2caf elementor-widget elementor-widget-heading" data-id="a7e2caf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">$600.000 + IVA  <br>
+Alojamiento Sencilla  </h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-cc56f61 e-con-full e-flex e-con e-child" data-id="cc56f61" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-62dc118 elementor-widget elementor-widget-image" data-id="62dc118" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1600" height="1200" src="/wp-content/uploads/2024/09/hotel_mourro.jpg" class="attachment-full size-full wp-image-1612" alt="" srcset="/wp-content/uploads/2024/09/hotel_mourro.jpg 1600w, /wp-content/uploads/2024/09/hotel_mourro-300x225.jpg 300w, /wp-content/uploads/2024/09/hotel_mourro-1024x768.jpg 1024w, /wp-content/uploads/2024/09/hotel_mourro-768x576.jpg 768w, /wp-content/uploads/2024/09/hotel_mourro-1536x1152.jpg 1536w" sizes="(max-width: 1600px) 100vw, 1600px">															</div>
+				</div>
+		<div class="elementor-element elementor-element-93f2f67 e-con-full e-flex e-con e-child" data-id="93f2f67" data-element_type="container">
+				<div class="elementor-element elementor-element-ced12e7 elementor-widget elementor-widget-heading" data-id="ced12e7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Holiday Inn Morros</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ab461a3 elementor-widget elementor-widget-heading" data-id="ab461a3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">$ 530.000 + IVA <br>
+Alojamiento Sencilla  
+</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c2778d3 e-con-full e-flex e-con e-child" data-id="c2778d3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-4b85168 elementor-widget elementor-widget-image" data-id="4b85168" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="346" height="244" src="/wp-content/uploads/2024/09/img_hotels-3.png" class="attachment-full size-full wp-image-1613" alt="" srcset="/wp-content/uploads/2024/09/img_hotels-3.png 346w, /wp-content/uploads/2024/09/img_hotels-3-300x212.png 300w" sizes="(max-width: 346px) 100vw, 346px">															</div>
+				</div>
+		<div class="elementor-element elementor-element-3a12e36 e-con-full e-flex e-con e-child" data-id="3a12e36" data-element_type="container">
+				<div class="elementor-element elementor-element-850015e elementor-widget elementor-widget-heading" data-id="850015e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sonesta</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-608ea55 elementor-widget elementor-widget-heading" data-id="608ea55" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">$ 530.000 + IVA<br>
+Alojamiento Sencilla</h2>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d123c6d e-con-full e-flex e-con e-child" data-id="d123c6d" data-element_type="container">
+				<div class="elementor-element elementor-element-311232c elementor-widget elementor-widget-heading" data-id="311232c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Con servicio de transporte al evento
+</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8d2d66d e-con-full e-flex e-con e-child" data-id="8d2d66d" data-element_type="container">
+		<div class="elementor-element elementor-element-d44744d e-con-full e-flex e-con e-child" data-id="d44744d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-189e288 elementor-widget elementor-widget-image" data-id="189e288" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="346" height="244" src="/wp-content/uploads/2024/09/img_hotels-1.png" class="attachment-full size-full wp-image-1614" alt="" srcset="/wp-content/uploads/2024/09/img_hotels-1.png 346w, /wp-content/uploads/2024/09/img_hotels-1-300x212.png 300w" sizes="(max-width: 346px) 100vw, 346px">															</div>
+				</div>
+		<div class="elementor-element elementor-element-15dbe9b e-con-full e-flex e-con e-child" data-id="15dbe9b" data-element_type="container">
+				<div class="elementor-element elementor-element-530a9ab elementor-widget elementor-widget-heading" data-id="530a9ab" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Américas Torre del Mar
+</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-086bf65 elementor-widget elementor-widget-heading" data-id="086bf65" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">$ 753.768 más IVA</h2>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-daf0e13 e-con-full e-flex e-con e-child" data-id="daf0e13" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-e2239cd elementor-widget elementor-widget-image" data-id="e2239cd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="346" height="244" src="/wp-content/uploads/2024/09/img_hotels-2.png" class="attachment-full size-full wp-image-1616" alt="" srcset="/wp-content/uploads/2024/09/img_hotels-2.png 346w, /wp-content/uploads/2024/09/img_hotels-2-300x212.png 300w" sizes="(max-width: 346px) 100vw, 346px">															</div>
+				</div>
+		<div class="elementor-element elementor-element-9af02f4 e-con-full e-flex e-con e-child" data-id="9af02f4" data-element_type="container">
+				<div class="elementor-element elementor-element-4236d07 elementor-widget elementor-widget-heading" data-id="4236d07" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Américas Casa de Playa</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-a7cac17 elementor-widget elementor-widget-heading" data-id="a7cac17" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">$ 613.432 más IVA  
+</h2>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-926b82e e-con-full e-flex e-con e-child" data-id="926b82e" data-element_type="container">
+				<div class="elementor-element elementor-element-a353cff elementor-widget elementor-widget-heading" data-id="a353cff" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Hotel sede del evento
+</h2>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-48ccf12 e-flex e-con-boxed e-con e-parent" data-id="48ccf12" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-617bef6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="617bef6" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
 		</div>
 						</div>
-				</div>
-				</div>
-				</div>
-					</div>
-		</div>
-						</div>
-				</div>
-				</div>
 				</div>
 					</div>
 				</div>
@@ -625,19 +461,19 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12151"><a href="/comite-cientifico/" class="elementor-sub-item">Comité científico</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2973">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2973">
 <a href="#" class="elementor-item elementor-item-anchor">Agenda</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2964"><a href="/workshops-virtuales/" class="elementor-sub-item">Workshops virtuales</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2619 current_page_item menu-item-2965"><a href="/cumbre-iniciativa-regional-sobre-el-dengue/" aria-current="page" class="elementor-sub-item elementor-item-active">Cumbre: Iniciativa regional sobre el Dengue</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2965"><a href="/cumbre-iniciativa-regional-sobre-el-dengue/" class="elementor-sub-item">Cumbre: Iniciativa regional sobre el Dengue</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2966"><a href="/programa-academico/" class="elementor-sub-item">Programa académico</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3024"><a href="/conferencista/" class="elementor-item">Conferencistas</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1596">
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1596">
 <a href="/cartagena-sede/" class="elementor-item">Ciudad y sede</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1595"><a href="/hoteles/" class="elementor-sub-item">Hoteles</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1593 current_page_item menu-item-1595"><a href="/hoteles/" aria-current="page" class="elementor-sub-item elementor-item-active">Hoteles</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1663"><a href="/actividades/" class="elementor-sub-item">Actividades</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1664"><a href="/restaurantes/" class="elementor-sub-item">Restaurantes</a></li>
 </ul>
@@ -653,19 +489,19 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12151"><a href="/comite-cientifico/" class="elementor-sub-item" tabindex="-1">Comité científico</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2973">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2973">
 <a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Agenda</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2964"><a href="/workshops-virtuales/" class="elementor-sub-item" tabindex="-1">Workshops virtuales</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2619 current_page_item menu-item-2965"><a href="/cumbre-iniciativa-regional-sobre-el-dengue/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">Cumbre: Iniciativa regional sobre el Dengue</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2965"><a href="/cumbre-iniciativa-regional-sobre-el-dengue/" class="elementor-sub-item" tabindex="-1">Cumbre: Iniciativa regional sobre el Dengue</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2966"><a href="/programa-academico/" class="elementor-sub-item" tabindex="-1">Programa académico</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3024"><a href="/conferencista/" class="elementor-item" tabindex="-1">Conferencistas</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1596">
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1596">
 <a href="/cartagena-sede/" class="elementor-item" tabindex="-1">Ciudad y sede</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1595"><a href="/hoteles/" class="elementor-sub-item" tabindex="-1">Hoteles</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1593 current_page_item menu-item-1595"><a href="/hoteles/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">Hoteles</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1663"><a href="/actividades/" class="elementor-sub-item" tabindex="-1">Actividades</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1664"><a href="/restaurantes/" class="elementor-sub-item" tabindex="-1">Restaurantes</a></li>
 </ul>
@@ -736,9 +572,9 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 							<form class="elementor-form" method="post" id="form_whatsapp" name="Formulario Whatsapp Popup">
 			<input type="hidden" name="post_id" value="549">
 			<input type="hidden" name="form_id" value="2c1ada8">
-			<input type="hidden" name="referer_title" value="Cumbre: Iniciativa regional sobre el Dengue">
+			<input type="hidden" name="referer_title" value="Hoteles">
 
-							<input type="hidden" name="queried_id" value="2619">
+							<input type="hidden" name="queried_id" value="1593">
 			
 			<div class="elementor-form-fields-wrapper elementor-labels-above">
 								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-md-100 elementor-field-required elementor-mark-required">
@@ -1006,14 +842,11 @@ function handleSubmit(event) {
 				events.forEach( ( event ) => {
 					document.addEventListener( event, lazyloadRunObserver );
 				} );</script>
-			<link rel="stylesheet" id="elementor-post-2624-css" href="/wp-content/uploads/elementor/css/post-2624.css?ver=1752703598" media="all">
-<link rel="stylesheet" id="widget-icon-list-css" href="/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1752703521" media="all">
-<link rel="stylesheet" id="elementor-gf-local-gabarito-css" href="/wp-content/uploads/elementor/google-fonts/css/gabarito.css?ver=1746808955" media="all">
-<script src="/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.4" id="hello-theme-frontend-js"></script>
+			<script src="/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.4" id="hello-theme-frontend-js"></script>
 <script src="/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.30.2" id="elementor-webpack-runtime-js"></script>
 <script src="/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.30.2" id="elementor-frontend-modules-js"></script>
 <script src="/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir vídeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la última diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Móvil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Móvil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"3.30.2","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"e_element_cache":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"dd86cb91ef"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop","viewport_widescreen"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":2619,"title":"Cumbre%3A%20Iniciativa%20regional%20sobre%20el%20Dengue%20%E2%80%93%20ghc2025","excerpt":"","featuredImage":false}};</script>
+<script id="elementor-frontend-js-before">var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir vídeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la última diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Móvil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Móvil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Portátil","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":true}},"hasCustomBreakpoints":true},"version":"3.30.2","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"e_element_cache":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"\/wp-admin\/admin-ajax.php","uploadUrl":"\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"dd86cb91ef"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop","viewport_widescreen"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":1593,"title":"Hoteles%20%E2%80%93%20ghc2025","excerpt":"","featuredImage":false}};</script>
 <script src="/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.30.2" id="elementor-frontend-js"></script>
 <script src="/wp-content/plugins/pro-elements/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js"></script>
 <script src="/wp-content/plugins/pro-elements/assets/lib/sticky/jquery.sticky.min.js?ver=3.29.0" id="e-sticky-js"></script>
